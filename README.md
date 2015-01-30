@@ -1,0 +1,2 @@
+# PhotoDownsizer
+Downsizes photos.
